@@ -1,0 +1,2 @@
+# Stack Overflow in Recursive Hack Function
+This repository demonstrates a common error in recursive functions: stack overflow due to an incorrect base case.  The `foo` function calculates factorials recursively. However, without proper handling of the base case, it results in infinite recursion, leading to a stack overflow.  The solution provided demonstrates a corrected version with a properly defined base case and an iterative approach as an alternative.
